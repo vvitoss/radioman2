@@ -1,0 +1,5 @@
+  limit values|10|9
+  limit values|1|0
+  limit values|0|0
+  limit values|-1|0
+  limit values|-2|0
